@@ -30,12 +30,12 @@
 [Asterisk](https://www.asterisk.org/) - Asterisk is a free and open source framework for building communications applications.
 
 
-📌 Support
+## 📌 Support
 
 Linkedin at [Thiago Medeiros](https://www.linkedin.com/in/thiagomedeiros11/)
 
 
-📝 License
+## 📝 License
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
