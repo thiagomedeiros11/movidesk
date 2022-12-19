@@ -1,7 +1,7 @@
 # Movidesk and Asterisk 18 Integration
 
 <p align="center">
-  <img src="https://github.com/thiagomedeiros11/movidesk/blob/main/tickets.png?raw=true" width="200" />
+  <img src="https://github.com/thiagomedeiros11/movidesk/blob/main/tickets.png?raw=true"/>
 </p>
 
 <h2 align="center">
