@@ -1,9 +1,5 @@
 # Movidesk and Asterisk 18 Integration
 
-<p align="center">
-  <img src="https://github.com/thiagomedeiros11/movidesk/blob/main/tickets.png?raw=true"/>
-</p>
-
 <h2 align="center">
   About
 </h2>
@@ -18,6 +14,10 @@
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/thiagomedeiros11/movidesk">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+</p>
+
+<p align="center">
+  <img src="https://github.com/thiagomedeiros11/movidesk/blob/main/tickets.png?raw=true"/>
 </p>
 
 
